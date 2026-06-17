@@ -15,3 +15,7 @@ Download the installer for your platform from the latest release and run it.
 - **Windows** — `.msi` or `.exe` installer
 - **macOS** — `.dmg`
 - **Linux** — `.AppImage` or `.deb`
+
+## License
+
+Proprietary — see [LICENSE](LICENSE).
